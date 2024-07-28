@@ -1,0 +1,324 @@
+# ---------------------------------------------------------------------------------------------------- #
+# PLACEHOLDERS
+
+# logo
+option.Mark=§8§k§l█§3§k
+value.Mark.0=§r  §6§l§8§k§l------§r  §3§kl:§8§k§l█
+value.Mark.1=§r  §6§l1§8§k§l-----§r  §3§kl:§8§k§l█
+value.Mark.2=§r  §6§l18§8§k§l----§r  §3§kl:§8§k§l█
+value.Mark.3=§r  §6§l182§8§k§l---§r  §3§kl:§8§k§l█
+value.Mark.4=§r  §6§l182e§8§k§l--§r  §3§kl:§8§k§l█
+value.Mark.5=§r  §6§l182ex§8§k§l-§r  §3§kl:§8§k§l█
+value.Mark.6=§r  §6§l182exe§8§k§l§r  §3§kl:§8§k§l█
+value.Mark.7=§r  §6§l182ex§8§k§l-§r  §3§kl:§8§k§l█
+value.Mark.8=§r  §6§l182e§8§k§l--§r  §3§kl:§8§k§l█
+value.Mark.9=§r  §6§l182§8§k§l---§r  §3§kl:§8§k§l█
+value.Mark.10=§r  §6§l18§8§k§l----§r  §3§kl:§8§k§l█
+value.Mark.11=§r  §6§l1§8§k§l-----§r  §3§kl:§8§k§l█
+option.Mark.comment=§6§o182exe§7§o made this.
+
+# info card
+option.Blank=
+value.Blank.0=⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ §6info §3(§8hover§3) ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏
+value.Blank.1=⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ §6info §3(§8hover§3) ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏ ⛏
+option.Blank.comment=§3c§6lairvoyance§r §7§o(1.1.5)§r by 182exe. i am not responsible for any shenanigans caused by this shaderpack.
+
+# ---------------------------------------------------------------------------------------------------- #
+# FUNCTIONAL
+
+# nametags
+screen.TAGSOPTIONS=nametags options§6
+option.Tags=nametags§3
+option.Tags.comment=§7§oshow nametags through walls.
+value.Tags.true=§6on
+value.Tags.false=§8off
+
+# chams
+screen.CHAMSOPTIONS=chams options§6
+option.Chams=chams§3
+value.Chams.true=§6on
+value.Chams.false=§8off
+option.Chams.comment=§7§oshow and color entities through walls.
+
+option.Chams_targets=targets§3
+value.Chams_targets.1=§6all
+value.Chams_targets.2=§6players
+option.Chams_targets.comment=§7§owhich entities are be affected.
+
+option.Chams_hand=on hand§3
+value.Chams_hand.true=§6on
+value.Chams_hand.false=§8off
+option.Chams_hand.comment=§7§oalso render the cham color on your held item/hand.
+
+option.Chams_rainbow=hue§3
+value.Chams_rainbow.true=§6on
+value.Chams_rainbow.false=§8off
+option.Chams_rainbow.comment=§7§omake the tint rainbow. based on the current rgb color (lighter color = lighter rainbow).
+
+option.Chams_prioritizedamagetint=damage tint priority§3
+value.Chams_prioritizedamagetint.true=§6on
+value.Chams_prioritizedamagetint.false=§8off
+option.Chams_prioritizedamagetint.comment=§7§oif an entity is damaged, render the damage color instead of the cham tint.
+
+# xray
+screen.XRAYOPTIONS=xray options§6
+option.Xray=xray§3
+value.Xray.true=§6on
+value.Xray.false=§8off
+option.Xray.comment=§7§oshow and color some blocks through walls. solid blocks fully surrounded by other solid blocks will not be shown because of culling.
+
+option.Xray_storage=storage§3
+value.Xray_storage.true=§6on
+value.Xray_storage.false=§8off
+option.Xray_storage.comment=§7§oshow chests.
+
+option.Xray_obsidian=obsidian§3
+value.Xray_obsidian.true=§6on
+value.Xray_obsidian.false=§8off
+option.Xray_obsidian.comment=§7§oshow obsidian.
+
+option.Xray_bed=beds§3
+value.Xray_bed.true=§6on
+value.Xray_bed.false=§8off
+option.Xray_bed.comment=§7§oshow beds.
+
+option.Xray_ore=ores§3
+value.Xray_ore.true=§6on
+value.Xray_ore.false=§8off
+option.Xray_ore.comment=§7§oshow ores.
+
+option.Xray_rainbow=hue§3
+value.Xray_rainbow.true=§6on
+value.Xray_rainbow.false=§8off
+option.Xray_rainbow.comment=§7§omake the tint rainbow. based on the current rgb color (lighter color = lighter rainbow).
+
+# ---------------------------------------------------------------------------------------------------- #
+# COLORS etc
+
+option.Chams_r=red§3
+value.Chams_r.0.00=§60.00
+value.Chams_r.0.05=§60.05
+value.Chams_r.0.10=§60.10
+value.Chams_r.0.15=§60.15
+value.Chams_r.0.20=§60.20
+value.Chams_r.0.25=§60.25
+value.Chams_r.0.30=§60.30
+value.Chams_r.0.35=§60.35
+value.Chams_r.0.40=§60.40
+value.Chams_r.0.45=§60.45
+value.Chams_r.0.50=§60.50
+value.Chams_r.0.55=§60.55
+value.Chams_r.0.60=§60.60
+value.Chams_r.0.65=§60.65
+value.Chams_r.0.70=§60.70
+value.Chams_r.0.75=§60.75
+value.Chams_r.0.80=§60.80
+value.Chams_r.0.85=§60.85
+value.Chams_r.0.90=§60.90
+value.Chams_r.0.95=§60.95
+value.Chams_r.1.00=§61.00
+
+option.Chams_g=green§3
+value.Chams_g.0.00=§60.00
+value.Chams_g.0.05=§60.05
+value.Chams_g.0.10=§60.10
+value.Chams_g.0.15=§60.15
+value.Chams_g.0.20=§60.20
+value.Chams_g.0.25=§60.25
+value.Chams_g.0.30=§60.30
+value.Chams_g.0.35=§60.35
+value.Chams_g.0.40=§60.40
+value.Chams_g.0.45=§60.45
+value.Chams_g.0.50=§60.50
+value.Chams_g.0.55=§60.55
+value.Chams_g.0.60=§60.60
+value.Chams_g.0.65=§60.65
+value.Chams_g.0.70=§60.70
+value.Chams_g.0.75=§60.75
+value.Chams_g.0.80=§60.80
+value.Chams_g.0.85=§60.85
+value.Chams_g.0.90=§60.90
+value.Chams_g.0.95=§60.95
+value.Chams_g.1.00=§61.00
+
+option.Chams_b=blue§3
+value.Chams_b.0.00=§60.00
+value.Chams_b.0.05=§60.05
+value.Chams_b.0.10=§60.10
+value.Chams_b.0.15=§60.15
+value.Chams_b.0.20=§60.20
+value.Chams_b.0.25=§60.25
+value.Chams_b.0.30=§60.30
+value.Chams_b.0.35=§60.35
+value.Chams_b.0.40=§60.40
+value.Chams_b.0.45=§60.45
+value.Chams_b.0.50=§60.50
+value.Chams_b.0.55=§60.55
+value.Chams_b.0.60=§60.60
+value.Chams_b.0.65=§60.65
+value.Chams_b.0.70=§60.70
+value.Chams_b.0.75=§60.75
+value.Chams_b.0.80=§60.80
+value.Chams_b.0.85=§60.85
+value.Chams_b.0.90=§60.90
+value.Chams_b.0.95=§60.95
+value.Chams_b.1.00=§61.00
+
+option.Chams_a=alpha§3
+value.Chams_a.0.00=§60.00
+value.Chams_a.0.05=§60.05
+value.Chams_a.0.10=§60.10
+value.Chams_a.0.15=§60.15
+value.Chams_a.0.20=§60.20
+value.Chams_a.0.25=§60.25
+value.Chams_a.0.30=§60.30
+value.Chams_a.0.35=§60.35
+value.Chams_a.0.40=§60.40
+value.Chams_a.0.45=§60.45
+value.Chams_a.0.50=§60.50
+value.Chams_a.0.55=§60.55
+value.Chams_a.0.60=§60.60
+value.Chams_a.0.65=§60.65
+value.Chams_a.0.70=§60.70
+value.Chams_a.0.75=§60.75
+value.Chams_a.0.80=§60.80
+value.Chams_a.0.85=§60.85
+value.Chams_a.0.90=§60.90
+value.Chams_a.0.95=§60.95
+value.Chams_a.1.00=§61.00
+
+option.Chams_rainbowspeed=hue speed§3
+value.Chams_rainbowspeed.1=§61
+value.Chams_rainbowspeed.2=§62
+value.Chams_rainbowspeed.3=§63
+value.Chams_rainbowspeed.4=§64
+value.Chams_rainbowspeed.5=§65
+value.Chams_rainbowspeed.6=§66
+value.Chams_rainbowspeed.7=§67
+value.Chams_rainbowspeed.8=§68
+value.Chams_rainbowspeed.9=§69
+value.Chams_rainbowspeed.10=§610
+value.Chams_rainbowspeed.11=§611
+value.Chams_rainbowspeed.12=§612
+value.Chams_rainbowspeed.13=§613
+value.Chams_rainbowspeed.14=§614
+value.Chams_rainbowspeed.15=§615
+value.Chams_rainbowspeed.16=§616
+value.Chams_rainbowspeed.17=§617
+value.Chams_rainbowspeed.18=§618
+value.Chams_rainbowspeed.19=§619
+value.Chams_rainbowspeed.20=§620
+
+option.Xray_r=red§3
+value.Xray_r.0.00=§60.00
+value.Xray_r.0.05=§60.05
+value.Xray_r.0.10=§60.10
+value.Xray_r.0.15=§60.15
+value.Xray_r.0.20=§60.20
+value.Xray_r.0.25=§60.25
+value.Xray_r.0.30=§60.30
+value.Xray_r.0.35=§60.35
+value.Xray_r.0.40=§60.40
+value.Xray_r.0.45=§60.45
+value.Xray_r.0.50=§60.50
+value.Xray_r.0.55=§60.55
+value.Xray_r.0.60=§60.60
+value.Xray_r.0.65=§60.65
+value.Xray_r.0.70=§60.70
+value.Xray_r.0.75=§60.75
+value.Xray_r.0.80=§60.80
+value.Xray_r.0.85=§60.85
+value.Xray_r.0.90=§60.90
+value.Xray_r.0.95=§60.95
+value.Xray_r.1.00=§61.00
+
+option.Xray_g=green§3
+value.Xray_g.0.00=§60.00
+value.Xray_g.0.05=§60.05
+value.Xray_g.0.10=§60.10
+value.Xray_g.0.15=§60.15
+value.Xray_g.0.20=§60.20
+value.Xray_g.0.25=§60.25
+value.Xray_g.0.30=§60.30
+value.Xray_g.0.35=§60.35
+value.Xray_g.0.40=§60.40
+value.Xray_g.0.45=§60.45
+value.Xray_g.0.50=§60.50
+value.Xray_g.0.55=§60.55
+value.Xray_g.0.60=§60.60
+value.Xray_g.0.65=§60.65
+value.Xray_g.0.70=§60.70
+value.Xray_g.0.75=§60.75
+value.Xray_g.0.80=§60.80
+value.Xray_g.0.85=§60.85
+value.Xray_g.0.90=§60.90
+value.Xray_g.0.95=§60.95
+value.Xray_g.1.00=§61.00
+
+option.Xray_b=blue§3
+value.Xray_b.0.00=§60.00
+value.Xray_b.0.05=§60.05
+value.Xray_b.0.10=§60.10
+value.Xray_b.0.15=§60.15
+value.Xray_b.0.20=§60.20
+value.Xray_b.0.25=§60.25
+value.Xray_b.0.30=§60.30
+value.Xray_b.0.35=§60.35
+value.Xray_b.0.40=§60.40
+value.Xray_b.0.45=§60.45
+value.Xray_b.0.50=§60.50
+value.Xray_b.0.55=§60.55
+value.Xray_b.0.60=§60.60
+value.Xray_b.0.65=§60.65
+value.Xray_b.0.70=§60.70
+value.Xray_b.0.75=§60.75
+value.Xray_b.0.80=§60.80
+value.Xray_b.0.85=§60.85
+value.Xray_b.0.90=§60.90
+value.Xray_b.0.95=§60.95
+value.Xray_b.1.00=§61.00
+
+option.Xray_a=alpha§3
+value.Xray_a.0.00=§60.00
+value.Xray_a.0.05=§60.05
+value.Xray_a.0.10=§60.10
+value.Xray_a.0.15=§60.15
+value.Xray_a.0.20=§60.20
+value.Xray_a.0.25=§60.25
+value.Xray_a.0.30=§60.30
+value.Xray_a.0.35=§60.35
+value.Xray_a.0.40=§60.40
+value.Xray_a.0.45=§60.45
+value.Xray_a.0.50=§60.50
+value.Xray_a.0.55=§60.55
+value.Xray_a.0.60=§60.60
+value.Xray_a.0.65=§60.65
+value.Xray_a.0.70=§60.70
+value.Xray_a.0.75=§60.75
+value.Xray_a.0.80=§60.80
+value.Xray_a.0.85=§60.85
+value.Xray_a.0.90=§60.90
+value.Xray_a.0.95=§60.95
+value.Xray_a.1.00=§61.00
+
+option.Xray_rainbowspeed=hue speed§3
+value.Xray_rainbowspeed.1=§61
+value.Xray_rainbowspeed.2=§62
+value.Xray_rainbowspeed.3=§63
+value.Xray_rainbowspeed.4=§64
+value.Xray_rainbowspeed.5=§65
+value.Xray_rainbowspeed.6=§66
+value.Xray_rainbowspeed.7=§67
+value.Xray_rainbowspeed.8=§68
+value.Xray_rainbowspeed.9=§69
+value.Xray_rainbowspeed.10=§610
+value.Xray_rainbowspeed.11=§611
+value.Xray_rainbowspeed.12=§612
+value.Xray_rainbowspeed.13=§613
+value.Xray_rainbowspeed.14=§614
+value.Xray_rainbowspeed.15=§615
+value.Xray_rainbowspeed.16=§616
+value.Xray_rainbowspeed.17=§617
+value.Xray_rainbowspeed.18=§618
+value.Xray_rainbowspeed.19=§619
+value.Xray_rainbowspeed.20=§620
