@@ -13,7 +13,6 @@
 #define Chams_prioritizedamagetint //[true false]
 
 uniform sampler2D texture;
-uniform ivec2 atlasSize;
 uniform vec4 entityColor;
 uniform int entityId;
 uniform float frameTimeCounter; // accumulated frame time in seconds (is there a better way to do this?)
