@@ -1,6 +1,6 @@
 
   O-------------------------------------------------------------------------------------------------------------------------------O
-  |                                                                                               clairvoyance v1.0.0 @ 7/28/2024 |
+  |                                                                                                        clairvoyance by 182exe |
   |               oooo             o8o                                                                                            |
   |               `8 8             `"'                                                                                            |
   |      .ooooo.   8 8   .oooo.   oooo  oooo d8b oooo    ooo  .ooooo.  oooo    ooo  .oooo.   ooo. .oo.    .ooooo.   .ooooo.       |
