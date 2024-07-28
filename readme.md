@@ -1,8 +1,10 @@
-# clairvoyance
+<div align="center">
+<h1>clairvoyance</h1>
 
 an optifine shaderpack with visual hacking modules similar to other popular utility mods/cheat clients.
 
 ![shader options menu/showcase gif](./image/showcase.gif)
+</div>
 
 ## features
 
