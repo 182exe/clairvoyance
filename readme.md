@@ -5,7 +5,7 @@ an optifine shaderpack with visual hacking modules similar to other popular util
 
 ![shader options menu/showcase gif](./image/showcase.gif)
 
-download: [click here](https://github.com/182exe/clairvoyance/archive/refs/heads/main.zip) or download this repository as a zip
+download: [click here](https://github.com/182exe/clairvoyance/archive/refs/heads/main.zip)
 </div>
 
 ## features
